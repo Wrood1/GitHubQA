@@ -22,7 +22,7 @@ public class GitHubTest extends BaseClase {
 
         login.clickOnGitHubPrivacyStatement();
         Thread.sleep(300);
-        Thread.sleep(2000); // انتظر تحميل صفحة التسجيل
+        Thread.sleep(2000); // انتظر تحميل صفحة  التسجيل
 
        // login.clickOnTermsOfsSrvice();
 
